@@ -1,0 +1,92 @@
+article
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h3
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul
+{
+    list-style: none;
+}
+
+ul li
+{
+    margin: 0 10px;
+}
+
+/* ___________________________ RACCOUCIS ____________________________ */
+
+.carousel
+{
+    width: 50vw;
+    margin: auto;
+}
+
+.border1
+{
+    border: 1px solid black;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.justifySA
+{
+    justify-content: space-around;
+    
+}
+
+.iconeSize
+{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.alignCenter
+{
+    align-items: center;
+}
+
+.flexDirectionC
+{
+    flex-direction: column;
+}
+
+.myButton {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+
+.margin
+{
+    margin-bottom: 20px;
+}
+
+.color
+{
+    color: black;
+}
